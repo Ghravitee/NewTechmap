@@ -3,9 +3,9 @@ import React from "react";
 import { BiSolidVideos } from "react-icons/bi";
 import { GrResources } from "react-icons/gr";
 import { HiUserCircle } from "react-icons/hi";
-import CourseForm from "../../components/forms/CoursesForm.tsx";
-import ResourcesForm from "../../components/forms/ResourcesForm.tsx";
-import VideosForm from "../../components/forms/VideosForm.tsx";
+import CourseForm from "../../components/forms/CoursesForm.jsx";
+import ResourcesForm from "../../components/forms/ResourcesForm.jsx";
+import VideosForm from "../../components/forms/VideosForm.jsx";
 
 function Homepage() {
   return (
